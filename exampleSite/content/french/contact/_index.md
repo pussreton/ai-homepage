@@ -1,13 +1,13 @@
 ---
-title: "Contact"
+title: "联系我们"
 description : "this is a meta description"
 
 office:
-  title : "Central Office"
-  mobile : "0124857985320"
-  email : "demo@email.com"
-  location : "Dhaka, Bangladedsh"
-  content : "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna"
+  title : "联系我们"
+  mobile : "156-6929-1989"
+  email : "业务联系：ContactUs@pussreton.cn  技术支持：support@pussreton.cn"
+  location : ""
+  content : "请优先使用邮件，24小时内回复"
 
 # opennig hour
 opennig_hour:

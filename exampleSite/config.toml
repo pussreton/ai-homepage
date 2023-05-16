@@ -7,7 +7,7 @@ summarylength = "20"
 # google analytics
 googleAnalytics = "" # Ex: UA-123-45
 # disable language
-disableLanguages = [] # disable language from here
+disableLanguages = ["fr"] 
 
 # unsafe html
 [markup.goldmark.renderer]
@@ -42,49 +42,45 @@ link = "https://cdn.snipcart.com/themes/v3.0.27/default/snipcart.js"
 
 # homepage section menu
 [[menu.main]]
-name = "Home"
+name = "首页"
 url = "/"
 weight = 1
 
 [[menu.main]]
-name = "Products"
+name = "案例"
 url = "products/"
 weight = 2
 
 [[menu.main]]
-name = "Blog"
+name = "合作"
 url = "blog/"
 weight = 3
 
 [[menu.main]]
-name = "Review"
+name = "职位"
 pre = "#"
 url = "testimonial"
 weight = 4
 
 [[menu.main]]
-name = "Contact"
+name = "关于我们"
 url = "contact/"
 weight = 5
 
-# footer menu
-[[menu.footer]]
-name = "Blog"
-url = "blog/"
-weight = 1
+# footer menu 
 
 [[menu.footer]]
-name = "Contact"
+name = "联系"
 url = "contact/"
-weight = 2
+weight = 4
+
+# [[menu.footer]]
+# name = "Terms & Conditions"
+# url = "terms-conditions/"
+# weight = 3
 
 [[menu.footer]]
-name = "Terms & Conditions"
-url = "terms-conditions/"
-weight = 3
-
-[[menu.footer]]
-name = "Privacy Policy"
+name = "隐私政策"
 url = "privacy-policy/"
 weight = 4
 
@@ -94,8 +90,9 @@ weight = 4
 logo = "images/logo.png"
 logo_width = "100px"
 # Meta data
-description = "This is meta description"
-author = "Themefisher"
+description = "普士软通（浙江）科技有限公司"
+copyright = "普士软通（浙江）科技有限公司"
+author = "Pussreton"
 # currency
 currency = "$"
 # contact form action
@@ -126,7 +123,7 @@ languageCode = "en-us"
 contentDir = "content/english"
 weight = 1
 # copyright
-copyright = "Designed By [Themefisher](https://themefisher.com/) & Developed By [Gethugothemes](https://gethugothemes.com/)"
+copyright = "普士软通（浙江）科技有限公司 & [浙ICP备2021032492号-1](https://beian.miit.gov.cn/)"
 
 
 ################################### French language #####################################
@@ -136,4 +133,4 @@ languageCode = "fr-fr"
 contentDir = "content/french"
 weight = 2
 # copyright
-copyright = "Designed By [Themefisher](https://themefisher.com/) & Developed By [Gethugothemes](https://gethugothemes.com/)"
+copyright = "普士软通（浙江）科技有限公司 & [浙ICP备2021032492号-1](https://beian.miit.gov.cn/)"
