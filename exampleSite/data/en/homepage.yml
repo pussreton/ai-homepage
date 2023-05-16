@@ -94,7 +94,7 @@ features:
 #################################### Products ########################
 products:
   enable: true
-  title: "合作......"
+  title: "支持与合作"
 
 ################################## Subscription ###################
 # subscription:
