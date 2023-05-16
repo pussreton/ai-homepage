@@ -47,20 +47,20 @@ url = "/"
 weight = 1
 
 [[menu.main]]
-name = "案例"
+name = "支持与合作"
 url = "products/"
 weight = 2
 
-[[menu.main]]
-name = "合作"
-url = "blog/"
-weight = 3
+# [[menu.main]]
+# name = "合作"
+# url = "blog/"
+# weight = 3
 
-[[menu.main]]
-name = "职位"
-pre = "#"
-url = "testimonial"
-weight = 4
+# [[menu.main]]
+# name = "职位"
+# pre = "#"
+# url = "testimonial"
+# weight = 4
 
 [[menu.main]]
 name = "关于我们"

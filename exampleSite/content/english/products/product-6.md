@@ -1,8 +1,8 @@
 ---
 title: ""
-date: 2019-10-17T11:22:16+06:00
-images:   
-  - "images/showcase/amazon-1.svg"
+date: 2021-10-17T11:22:16+06:00
+images:  
+  - "images/showcase/docker.svg" 
 
 # meta description
 # description : "this is meta description"

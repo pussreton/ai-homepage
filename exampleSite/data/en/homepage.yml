@@ -5,9 +5,9 @@ banner:
   content: "我们致力于用最低成本的技术方案为企业解决问题！技术方案选型均参照业界国际标准化设计进行开发与实施。永远坚持技术规范化、开发严谨、软件可实施的态度！ "
   image: "images/features.png"
   button:
-    enable: true
-    label: "Browse All Products"
-    link: "products/"
+    enable: false
+    # label: "Browse All Products"
+    # link: "products/"
 
 ############################# Feature ############################
 features:
@@ -110,19 +110,19 @@ testimonial:
   title: "团队介绍"
   testimonial_item:
     # testimonial item loop
-    - name: "Jonathon Andrew"
-      designation: "CEO, Themefisher"
-      image: "images/avater.png"
-      content: "A wonderful serenity has taken possession of my entire soul, like these sweet mornings of spring which I enjoy with my whole heart. I am alone, and feel the charm of existence in this spot, which was created for the bliss of souls like mine. I am so happy, my dear friend, so absorbed in the exquisite sense of mere tranquil existence, that I neglect my talents."
+    - name: "Beats武"
+      designation: "Developer"
+      image: "images/avatar-1.png"
+      content: "KafkaRefresh作者。早期独立开发者，全栈工程师。擅长做菜之余写代码。8年开发经验"
 
     # testimonial item loop
-    - name: "Jonathon Andrew"
-      designation: "CEO, Themefisher"
-      image: "images/avater.png"
-      content: "A wonderful serenity has taken possession of my entire soul, like these sweet mornings of spring which I enjoy with my whole heart. I am alone, and feel the charm of existence in this spot, which was created for the bliss of souls like mine. I am so happy, my dear friend, so absorbed in the exquisite sense of mere tranquil existence, that I neglect my talents."
+    - name: "飞鹅普斯"
+      designation: "Developer"
+      image: "images/avatar-2.jpeg"
+      content: "前端工程师，擅长React、Flutter、iOS等前端技术，8年开发经验"
 
     # testimonial item loop
-    - name: "Jonathon Andrew"
-      designation: "CEO, Themefisher"
-      image: "images/avater.png"
-      content: "A wonderful serenity has taken possession of my entire soul, like these sweet mornings of spring which I enjoy with my whole heart. I am alone, and feel the charm of existence in this spot, which was created for the bliss of souls like mine. I am so happy, my dear friend, so absorbed in the exquisite sense of mere tranquil existence, that I neglect my talents."
+    - name: "哲别"
+      designation: "Developer & Designer"
+      image: "images/avatar-3.jpeg"
+      content: "Dribbble上的设计师，擅长UI设计，专注小而美的细节设计。热爱技术，设计之外擅长前端编程"
