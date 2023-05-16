@@ -70,7 +70,7 @@ weight = 5
 # footer menu 
 
 [[menu.footer]]
-name = "联系"
+name = "联系我们"
 url = "contact/"
 weight = 4
 

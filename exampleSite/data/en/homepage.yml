@@ -1,9 +1,9 @@
 ############################# banner ############################
 banner:
   enable: true
-  title: "Believe in Technology, Make the change"
-  content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptas, modi fugit in veritatis labore perferendis. Minima hic at, nostrum nihil!"
-  image: "images/watch.png"
+  title: "相信技术的力量带来改变！"
+  content: "我们致力于用最低成本的技术方案为企业解决问题！技术方案选型均参照业界国际标准化设计进行开发与实施。永远坚持技术规范化、开发严谨、软件可实施的态度！ "
+  image: "images/features.png"
   button:
     enable: true
     label: "Browse All Products"
@@ -12,100 +12,102 @@ banner:
 ############################# Feature ############################
 features:
   enable: true
-  title: "Our Core Features"
-  image: "images/watch-2.png"
+  title: "我们的优势"
+  image: "images/features-2.png"
 
   # feature at the left of the image
   left_side:
     # feature item loop
-    - title: "Smooth Touch"
-      icon: "tf-ion-ios-alarm-outline"
-      content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem, inventore?"
+    - title: "先锋"
+      # icon: "images/xianfeng.png"
+      content: "绝不墨守成规。对于新技术的采用，永远保持谦虚、接纳的态度。我们的技术经验不会是永啃老本"
 
       # feature item loop
-    - title: "Elegant Design"
-      icon: "tf-ion-ios-bell-outline"
-      content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem, inventore?"
+    - title: "拥抱开源"
+      # icon: "tf-ion-ios-cart-outline"
+      content: "依托开源社区领先的技术方案，为企业带来开箱即用的服务。对于中小型项目，我们在单体架构中积累了足够的经验，如数据库、缓存、网络等。对于复杂的企业大型软件，我们深度熟悉微服务架构，基于Golang的后端卡啊发语言，让我们在云原生及微服务领域有着天然的优势"
 
       # feature item loop
-    - title: "Easy Pricing"
-      icon: "tf-ion-ios-cart-outline"
-      content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem, inventore?"
+    - title: "规范"
+      # icon: "tf-ion-ios-bell-outline"
+      content: "坚信规范才能带来可维护性的代码。赞同天马行空的思维，同时更关注代码的可维护性。同时我们设计了完整的服务监控程序，对于程序异常可做到秒级响应"
 
+    
   # feature at the right of the image
   right_side:
+
     # feature item loop
-    - title: "Smooth Touch"
-      icon: "tf-ion-ios-alarm-outline"
-      content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem, inventore?"
+    - title: "技术栈"
+      # icon: "tf-ion-ios-alarm-outline"
+      content: "倾心于跨平台技术的钻研。高性能的Golang后端开发语言，Flutter跨平台移动端开发，React前端开发等"
 
       # feature item loop
-    - title: "Elegant Design"
-      icon: "tf-ion-ios-bell-outline"
-      content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem, inventore?"
+    - title: "严谨"
+      # icon: "tf-ion-ios-cart-outline"
+      content: "依托自动化单元测试尽可能规避人为因素带来的代码异常"
 
       # feature item loop
-    - title: "Easy Pricing"
-      icon: "tf-ion-ios-cart-outline"
-      content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem, inventore?"
+    - title: "业务导向与务实"
+      # icon: "tf-ion-ios-bell-outline"
+      content: "脱离技术的束缚，拥抱业务，坚持技术为业务服务的态度，同时我们更注重软件的可实施性。在技术与实施中不断权衡平衡方案，为客户打造可落地的软件服务"
 
 ############################# promo ############################
-promo:
-  enable: true
-  image: "images/watch.png"
-  title: "Designed by professional , the benefit for creative gigs"
-  content:
-    "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quia vel labore, deleniti minima
-    nisi, velit atque quaerat impedit ea maxime sunt accusamus at obcaecati dolor iure iusto omnis quis eum.
-    <br><br>
-    Lorem ipsum dolor sit amet, consectetur adipisicing elit. Facilis commodi odit, illo, qui aliquam dol"
+# promo:
+#   enable: true
+#   image: "images/professional.png"
+#   title: "专业与创造"
+#   content:
+#     "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quia vel labore, deleniti minima
+#     nisi, velit atque quaerat impedit ea maxime sunt accusamus at obcaecati dolor iure iusto omnis quis eum.
+#     <br><br>
+#     Lorem ipsum dolor sit amet, consectetur adipisicing elit. Facilis commodi odit, illo, qui aliquam dol"
 
 ############################# About Product #######################
-about_product:
-  enable: true
-  title: "Why Choose Apple Watch"
-  items:
-    # about product item loop
-    - image: "images/showcase/showcase-4.png"
-      title: "Lorem ipsum dolor sit amet."
-      content:
-        "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptate, sed, assumenda. Tenetur
-        sed esse, voluptas voluptate est veniam numquam, quis magni. Architecto minus suscipit
-        quas, quo harum deserunt consequatur cumque!"
-      button:
-        enable: false
-        label: "Check Features"
-        link: "#/"
+# about_product:
+#   enable: true
+#   title: "Why Choose Apple Watch"
+#   items:
+#     # about product item loop
+#     - image: "images/showcase/showcase-4.png"
+#       title: "Lorem ipsum dolor sit amet."
+#       content:
+#         "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptate, sed, assumenda. Tenetur
+#         sed esse, voluptas voluptate est veniam numquam, quis magni. Architecto minus suscipit
+#         quas, quo harum deserunt consequatur cumque!"
+#       button:
+#         enable: false
+#         label: "Check Features"
+#         link: "#/"
 
-    # about product item loop
-    - image: "images/showcase/showcase-3.png"
-      title: "Lorem ipsum dolor sit amet."
-      content:
-        "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptate, sed, assumenda. Tenetur
-        sed esse, voluptas voluptate est veniam numquam, quis magni. Architecto minus suscipit
-        quas, quo harum deserunt consequatur cumque!"
-      button:
-        enable: false
-        label: "Check Features"
-        link: "#/"
+#     # about product item loop
+#     - image: "images/showcase/showcase-3.png"
+#       title: "Lorem ipsum dolor sit amet."
+#       content:
+#         "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptate, sed, assumenda. Tenetur
+#         sed esse, voluptas voluptate est veniam numquam, quis magni. Architecto minus suscipit
+#         quas, quo harum deserunt consequatur cumque!"
+#       button:
+#         enable: false
+#         label: "Check Features"
+#         link: "#/"
 
 #################################### Products ########################
 products:
   enable: true
-  title: "Checkout Our All Products"
+  title: "合作......"
 
 ################################## Subscription ###################
-subscription:
-  enable: true
-  bg_image: "images/call-to-action.jpg"
-  title: "Get Product Updates"
-  content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod"
-  placeholder: "Your Email Address Here"
+# subscription:
+#   enable: true
+#   bg_image: "images/call-to-action.jpg"
+#   title: "Get Product Updates"
+#   content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod"
+#   placeholder: "Your Email Address Here"
 
 ############################## Testimonial ##########################
 testimonial:
   enable: true
-  title: "Watch Review"
+  title: "团队介绍"
   testimonial_item:
     # testimonial item loop
     - name: "Jonathon Andrew"

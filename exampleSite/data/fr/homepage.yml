@@ -3,7 +3,7 @@ banner:
   enable: true
   title: "Believe in Technology, Make the change"
   content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptas, modi fugit in veritatis labore perferendis. Minima hic at, nostrum nihil!"
-  image: "images/watch.png"
+  image: "images/features.png"
   button:
     enable: true
     label: "Browse All Products"
@@ -12,8 +12,8 @@ banner:
 ############################# Feature ############################
 features:
   enable: true
-  title: "Our Core Features"
-  image: "images/watch-2.png"
+  title: "Our CoFeaturesre "
+  image: "images/features-2.png"
 
   # feature at the left of the image
   left_side:
@@ -52,7 +52,7 @@ features:
 ############################# promo ############################
 promo:
   enable: true
-  image: "images/watch.png"
+  image: "images/features.png"
   title: "Designed by professional , the benefit for creative gigs"
   content:
     "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quia vel labore, deleniti minima

@@ -1,6 +1,6 @@
 ---
-title: "All latest Smart Watch"
-description : "this is a meta description"
+title: "我们的合作"
+description : "普士软通（浙江）科技有限公司"
 draft: false
 ---
 
